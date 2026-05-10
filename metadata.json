@@ -1,0 +1,6 @@
+{
+  "name": "Game Shell Wrapper",
+  "description": "A fullscreen web application wrapper that loads an external GitHub Pages URL, allowing remote update of the game without updating this wrapper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
