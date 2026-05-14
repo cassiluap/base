@@ -1,6 +1,6 @@
 {
-  "name": "Game Shell Wrapper",
-  "description": "A fullscreen web application wrapper that loads an external GitHub Pages URL, allowing remote update of the game without updating this wrapper.",
+  "name": "Top-Down Simple Game",
+  "description": "A simple 2D canvas game with a top-down character controller, ready to be deployed to GitHub Pages.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
